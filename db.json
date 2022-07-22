@@ -1,0 +1,156 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Product1",
+      "category": "Electronics",
+      "price": 1000,
+      "Description": "This is description about product 1"
+    },
+    {
+      "id": 2,
+      "title": "Product2",
+      "category": "Electronics",
+      "price": 1001,
+      "Description": "This is description about product 2"
+    },
+    {
+      "id": 3,
+      "title": "Product3",
+      "category": "Electronics",
+      "price": 1900,
+      "Description": "This is description about product 3"
+    },
+    {
+      "id": 4,
+      "title": "Product4",
+      "category": "Electronics",
+      "price": 1080,
+      "Description": "This is description about product 4"
+    },
+    {
+      "id": 5,
+      "title": "Product5",
+      "category": "Electronics",
+      "price": 3000,
+      "Description": "This is description about product 5"
+    },
+    {
+      "id": 6,
+      "title": "Product6",
+      "category": "Mobile",
+      "price": 11200,
+      "Description": "This is description about product 6"
+    },
+    {
+      "id": 7,
+      "title": "Product7",
+      "category": "Mobile",
+      "price": 11000,
+      "Description": "This is description about product 7"
+    },
+    {
+      "id": 8,
+      "title": "Product8",
+      "category": "Desktop",
+      "price": 19000,
+      "Description": "This is description about product 8"
+    },
+    {
+      "id": 9,
+      "title": "Product9",
+      "category": "Desktop",
+      "price": 29000,
+      "Description": "This is description about product 9"
+    },
+    {
+      "id": 10,
+      "title": "Product10",
+      "category": "Desktop",
+      "price": 19200,
+      "Description": "This is description about product 10",
+      "discount": {
+        "type": "Shipping"
+      }
+    },
+    {
+      "id": 11,
+      "title": "Product10",
+      "category": "Desktop",
+      "price": 19200,
+      "Description": "This is description about product 10",
+      "discount": {
+        "type": "Shipping"
+      }
+    },
+    {
+      "id": 12,
+      "title": "Product9",
+      "category": "Desktop",
+      "price": 29000,
+      "Description": "This is description about product 12"
+    }
+  ],
+  "reviewes": [
+    {
+      "id": 1,
+      "rating": 3,
+      "Comment": "Review 1 for product id 1",
+      "productId": 1
+    },
+    {
+      "id": 2,
+      "rating": 3,
+      "Comment": "Review 1 for product id 1",
+      "productId": 1
+    },
+    {
+      "id": 3,
+      "rating": 3,
+      "Comment": "Review 1 for product id 1",
+      "productId": 2
+    },
+    {
+      "id": 4,
+      "rating": 3,
+      "Comment": "Review 1 for product id 1",
+      "productId": 1
+    },
+    {
+      "id": 5,
+      "rating": 3,
+      "Comment": "Review 1 for product id 1",
+      "productId": 3
+    },
+    {
+      "id": 6,
+      "rating": 3,
+      "Comment": "Review 1 for product id 1",
+      "productId": 1
+    },
+    {
+      "id": 7,
+      "rating": 3,
+      "Comment": "Review 1 for product id 1",
+      "productId": 1
+    },
+    {
+      "id": 8,
+      "rating": 3,
+      "Comment": "Review 1 for product id 1",
+      "productId": 1
+    },
+    {
+      "id": 9,
+      "rating": 3,
+      "Comment": "Review 1 for product id 1",
+      "productId": 1
+    },
+    {
+      "id": 10,
+      "rating": 3,
+      "Comment": "Review 1 for product id 1",
+      "productId": 1
+    }
+  ]
+}
